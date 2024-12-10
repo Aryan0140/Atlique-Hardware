@@ -1,4 +1,4 @@
-# Atlique-Hardware
+git# Atlique-Hardware
 This is my first repository
 <br>
-Author by = Aryan Sandeep Pote
+Author by = Aryan Sandeep Pote(MAC)
